@@ -1,3 +1,5 @@
+vim.cmd [[colorscheme slate]]
+
 local o = vim.opt
 
 o.nu = true
